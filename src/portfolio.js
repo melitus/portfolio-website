@@ -22,15 +22,15 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/drakosi99",
-  // linkedin: "https://www.linkedin.com/in/",
-  gmail: "contact@davidrakosi.com",
+  github: "https://github.com/melitus",
+  linkedin: "https://www.linkedin.com/in/arohsunday/",
+  gmail: "asmelitus@gmail.com",
   // gitlab: "https://gitlab.com/",
   // facebook: "https://www.facebook.com/",
-  medium: "https://medium.com/@davidrakosi",
-  stackoverflow: "https://stackoverflow.com/users/13263979/drakosi",
-  instagram: 'https://www.instagram.com/davidrakosi/',
-  twitter: 'https://twitter.com/davidrakosi_',
+  // medium: "https://medium.com/@davidrakosi",
+  // stackoverflow: "https://stackoverflow.com/users/13263979/drakosi",
+  // instagram: 'https://www.instagram.com/davidrakosi/',
+  twitter: 'https://twitter.com/ArohMelitus',
   display: true // Set true to display this section, defaults to false
 };
 
@@ -103,10 +103,10 @@ const educationInfo = {
   display: false, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Harvard University",
+      schoolName: "University of Nigeria, Nsukka",
       logo: require("./assets/images/harvardLogo.png"),
-      subHeader: "Master of Science in Computer Science",
-      duration: "September 2017 - April 2019",
+      subHeader: "Bachelor of Engineering in Electronic Engineering",
+      duration: "September 2017 - April 2012",
       desc: "Participated in the research of XXX and published 3 papers.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
@@ -152,30 +152,30 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Clever Programmer",
-      companylogo: require("./assets/images/cpLogo.png"),
+      company: "Jexta",
+      companylogo: require("./assets/images/logo.png"),
       date: "September 2020 – Present",
       desc:
         "Changing lives of developers one line of code at a time.",
       descBullets: [
         "Custom building applications",
         "Coaching",
-        "Streaming live on YouTube",
+        "Streaming live on YouTu",
         "Creating tutorials"
       ]
     },
     {
-      role: "Product Owner (PSD2)",
-      company: "Erste Bank",
-      companylogo: require("./assets/images/ersteLogo.jpg"),
+      role: "Software Developer | Co-Founder",
+      company: "Dynamic Flakes",
+      companylogo: require("./assets/images/df_logo.png"),
       date: "July 2019 – September 2020",
       desc:
         "I lead software developers building the API for the bank in order to fulfil the PSD2 regulation requirements."
     },
     {
-      role: "Junior Information Security & Systems Representative",
-      company: "Vodafone",
-      companylogo: require("./assets/images/vodafoneLogo.png"),
+      role: "CTO",
+      company: "Studiare Global",
+      companylogo: require("./assets/images/studiaree.jpeg"),
       date: "November 2018 – July 2019",
       desc:
         "I've conducted internal audit making sure the organization is compliant with the GDPR."
@@ -349,14 +349,14 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "(323) 768 0674",
-  email_address: "contact@davidrakosi.com"
+  number: "(234) 806 1329356",
+  email_address: "asmelitus@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: "davidrakosi_", //Replace "twitter" with your twitter username without @
+  userName: "ArohMelitus", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
